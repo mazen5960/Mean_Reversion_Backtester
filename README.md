@@ -1,5 +1,5 @@
 # Mean_Reversion_Backtester
-Backtesting and Analyzing a Mean Reversion Trading Strategy using SQL.
+Backtesting and Analyzing a Mean Reversion Trading Strategy on historic AAPL stocks.
 
 
 ## Strategy Overview
@@ -33,7 +33,7 @@ The system identifies buy and sell signals based on deviations from the 20-day s
 
 - Add performance metrics (e.g., cumulative returns)
 - Expand to support multiple stocks
-- Optional: build a basic dashboard for interaction
+
 
 ---
 
